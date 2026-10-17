@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.wiki.category.Начало работы": {
+    "message": "Начало работы",
+    "description": "The label for category Начало работы in sidebar wiki"
+  },
+  "sidebar.wiki.category.Виджеты": {
+    "message": "Виджеты",
+    "description": "The label for category Виджеты in sidebar wiki"
+  },
+  "sidebar.wiki.category.Инструменты": {
+    "message": "Инструменты",
+    "description": "The label for category Инструменты in sidebar wiki"
+  }
+}
