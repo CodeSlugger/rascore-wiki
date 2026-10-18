@@ -26,6 +26,7 @@ Bybit, OKX, Gate, Bitget, KuCoin и Binance Alpha. Плюс ончейн: пер
 | Набор/сброс позиций по фьючерсу | [Открытый интерес](widgets/oi) |
 | Крупные лимитки в стакане | [Плотности](widgets/densities) |
 | Новый крупный сайз над ценой на неликвиде | [Сайзы выше рынка](widgets/sizes_above) |
+| Токен акции пролили ликвидациями | [Ликвидации акций](widgets/tradfi_liq) |
 | Заявки в спреде, в которые наливают | [Спред-боты](widgets/spreadbot) |
 | Заявки по таймингу в стакане Gate | [Gate: ритм плотностей](widgets/gate_repeats) |
 | Алгос Binance Alpha | [Alpha: лесенка + разнолот](widgets/alpha_ladder) |
