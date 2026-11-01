@@ -1,0 +1,1 @@
+(globalThis.webpackChunkrascore_wiki=globalThis.webpackChunkrascore_wiki||[]).push([[5741],{5741:()=>{}}]);
